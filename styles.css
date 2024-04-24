@@ -1,0 +1,63 @@
+.form-group {
+    margin-left: 10px;
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  button{
+    margin-left: 10px;
+    text-align: center;
+    padding: 5px 10px;
+  }
+  input {
+    padding: 5px;
+  }
+  
+  small {
+    color: red;
+  }
+  
+  .success {
+    color: green;
+  }
+  body {
+    background-image: url(bcg_3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; /* Center the background image */
+    margin: 0; /* Remove default margin to cover the entire viewport */
+    height: 100vh; /* Set the height to 100% of the viewport height */
+  }
+  form{
+    text-align: center;
+  }
+  h2{
+    color:#FF9800 ;
+    text-align: center;
+  }
+  h5{
+    text-align: center;
+  }
+  /* Add border to table */
+.table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  /* Add border to table header */
+  .table th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  /* Add border to table rows */
+  .table td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
